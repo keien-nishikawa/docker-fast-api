@@ -1,6 +1,6 @@
 # FastAPI(Docker)
 
-## execute git clone
+## Execute git clone
 
 ```bash
 $ docker-compose up -d --build
