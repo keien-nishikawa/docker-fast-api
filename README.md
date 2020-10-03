@@ -1,6 +1,6 @@
 # FastAPI(Docker)
 
-## git clone したらノールックで下記のコマンドを叩く
+## execute git clone
 
 ```bash
 $ docker-compose up -d --build
